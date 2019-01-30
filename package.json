@@ -1,0 +1,21 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World in Node.JS & Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "node",
+    "express"
+  ],
+  "author": "velreine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
