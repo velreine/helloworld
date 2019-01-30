@@ -10,6 +10,7 @@ Obtain the source code:
 $ cd %USERPROFILE%
 $ mkdir helloworld
 $ cd helloworld
+$ git init
 $ git pull https://github.com/velreine/helloworld
 ```
 
